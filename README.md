@@ -23,6 +23,14 @@ npm run dev
 
 Open the local URL Vite prints in your terminal.
 
+## Test from Codespaces
+
+Run the dev server in the Codespace, then open the forwarded port `5173` URL on desktop or mobile.
+
+```bash
+npm run dev
+```
+
 ## Build
 
 ```bash
